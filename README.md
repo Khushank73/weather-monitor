@@ -6,6 +6,14 @@ Developed a real-time data processing system to monitor weather conditions and p
 
 API Key 
 
+Tech Stack Used 
+
+Python
+Flask
+sqlite3
+HTML
+CSS
+
 # How to run application
 
 Clone the repository and update the your api key and run the command in the terminal
