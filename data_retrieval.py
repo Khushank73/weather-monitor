@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = '96b1f2082f30339a687993ff117aa0eb'
+API_KEY = 'your_api_key'
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 CITIES = ['Delhi', 'Mumbai', 'Chennai', 'Bangalore', 'Kolkata', 'Hyderabad']
 
